@@ -1,6 +1,6 @@
 params.assemblies = 'assemblies/*.fasta'
 params.output_dir = 'output_dir'
-params.sequencing_date = 'GYYMMDD'
+params.sequencing_date = 'GYYMMDDx'
 
 process MLST {
     tag "$meta"
