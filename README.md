@@ -161,7 +161,7 @@
 This pipeline predicts MLST from assemblies derived from pure cultures or metagenomic samples. This Nextflow pipeline uses Torsten Tsemann's [MLST tool](https://github.com/tseemann/mlst). Module adapted from nf-core [MLST module](https://github.com/nf-core/modules/blob/master/modules/nf-core/mlst/main.nf).
 
 
-Inputs are fastqs specified using `--assemblies`. 
+Inputs are fasta files specified using `--assemblies`. 
 
 
 ## Sample command
